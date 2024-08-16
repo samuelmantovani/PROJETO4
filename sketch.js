@@ -1,7 +1,7 @@
 let palavra
 
 function setup() {
-  createCanvas(600, 600);
+  createCanvas(1000, 800);
   palavra = omasp();
 }
 
